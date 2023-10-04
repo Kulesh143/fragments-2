@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApp17_A</string>
+    <string name="btn_set">Set</string>
+    <string name="btn_add">Add</string>
+    <string name="hello_fragment">Hello fragment</string>
+    <string name="activity">Activity</string>
+    <string name="remove_fragment">Remove Fragments</string>
+
+    <string name="fragment2">Fragment 2</string>
+    <string name="fragment3">Fragment 3</string>
+    <string name="set">Set</string>
+</resources>
